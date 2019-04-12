@@ -10,7 +10,7 @@ calculateButton.y = 350
 calculateButton.id = "calculateButton"
 
 
-responseText = display.newText ( " What movie can you watch? " , display.contentCenterX - 3, 160, native.systemFont, 25 )
+responseText = display.newText ( " What movie can you watch? " , display.contentCenterX - 3, 160, native.systemFont, 15 )
 responseText:setFillColor ( 255/255 , 255/255, 255/255 )
 
 
