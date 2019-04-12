@@ -51,4 +51,4 @@ end
 
 
 
-calculateButton:addEventListener("Touch" , calculateButtonTouch)
+calculateButton:addEventListener("touch" , calculateButtonTouch)
